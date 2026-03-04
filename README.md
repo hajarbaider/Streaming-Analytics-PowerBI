@@ -1,4 +1,4 @@
-# Streaming-Analytics-PowerBI
+
 # 📊 Streaming Platforms Analytics (Power BI Project)
 
 ## 📌 Project Overview
